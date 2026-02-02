@@ -43,7 +43,7 @@ main{
 }
 
 .content-two{
-  background-image: url(images/Badal.jpg);
+  background-image: url(images/profile.jpeg);
   background-size: cover;
   height: 350px;
   width: 350px;
@@ -68,8 +68,8 @@ main{
   letter-spacing:2px;
 }
 .contact{
-  padding: 15px;
-  border-radius:20px;
+  padding: 13px;
+  border-radius:17px;
   background: transparent;
   color: white;
   width: 160px;
@@ -84,8 +84,8 @@ main{
   width: 165px;
 }
 .resume{
-  padding: 15px;
-  border-radius:20px;
+  padding: 13px;
+  border-radius:17px;
   background: transparent;
   color:#ffe6ee;
   width: 160px;
